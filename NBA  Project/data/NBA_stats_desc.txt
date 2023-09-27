@@ -1,0 +1,63 @@
+The column headers the dataset represent statistics and information related to NBA basketball players and their performance during a specific season. Here's a breakdown of what these column headers mean:
+
+1. **ID**: A unique identifier for each record or player.
+
+2. **Season**: The NBA season to which the data corresponds. This is typically represented as a year range, e.g., "2020-2021."
+
+3. **Player**: The name or identifier of the NBA player.
+
+4. **Pos**: The player's position on the basketball court (e.g., PG for Point Guard, SG for Shooting Guard, SF for Small Forward, PF for Power Forward, C for Center).
+
+5. **Age**: The player's age during the specified season.
+
+6. **Team**: The NBA team that the player is a part of during that season.
+
+7. **G**: Games played by the player during the season.
+
+8. **GS**: Games started by the player during the season.
+
+9. **MP**: Minutes played by the player during the season.
+
+10. **FG**: Field Goals made by the player during the season.
+
+11. **FGA**: Field Goals attempted by the player during the season.
+
+12. **FG%**: Field Goal Percentage, which is the ratio of successful field goals made to attempted field goals.
+
+13. **3P**: Three-Point Field Goals made by the player during the season.
+
+14. **3PA**: Three-Point Field Goals attempted by the player during the season.
+
+15. **3P%**: Three-Point Field Goal Percentage, which is the ratio of successful three-point field goals made to attempted three-point field goals.
+
+16. **2P**: Two-Point Field Goals made by the player during the season.
+
+17. **2PA**: Two-Point Field Goals attempted by the player during the season.
+
+18. **2P%**: Two-Point Field Goal Percentage, which is the ratio of successful two-point field goals made to attempted two-point field goals.
+
+19. **eFG%**: Effective Field Goal Percentage, a more comprehensive measure of shooting efficiency that accounts for the added value of three-point shots.
+
+20. **FT**: Free Throws made by the player during the season.
+
+21. **FTA**: Free Throws attempted by the player during the season.
+
+22. **FT%**: Free Throw Percentage, which is the ratio of successful free throws made to attempted free throws.
+
+23. **ORB**: Offensive Rebounds grabbed by the player during the season.
+
+24. **DRB**: Defensive Rebounds grabbed by the player during the season.
+
+25. **TRB**: Total Rebounds, which is the sum of offensive and defensive rebounds.
+
+26. **AST**: Assists made by the player during the season.
+
+27. **STL**: Steals made by the player during the season.
+
+28. **BLK**: Blocks made by the player during the season.
+
+29. **TOV**: Turnovers committed by the player during the season.
+
+30. **PF**: Personal Fouls committed by the player during the season.
+
+31. **PTS**: Total Points scored by the player during the season.
