@@ -1,7 +1,5 @@
 # NBA-Project
-This Repo consists of Algorithms for Predicting NBA Games Using RAPTOR and other ideal parameters. An extensive range of Visualisation is done here
-Certainly! Below is an extensive repository introduction for your notebook on predicting NBA winners using RAPTOR and other statistical parameters:
-
+`A Test Algorithm for NBA Games Prediction`
 ---
 
 # NBA Winner Prediction with RAPTOR and Statistical Analysis
@@ -10,7 +8,7 @@ Certainly! Below is an extensive repository introduction for your notebook on pr
 
 ## Overview
 
-Welcome to the NBA Winner Prediction repository! This project combines advanced statistical modeling techniques, including the use of the RAPTOR player rating system, with a comprehensive analysis of various performance parameters to predict the outcomes of NBA games. By leveraging cutting-edge analytics and historical data, we aim to provide accurate insights into which team might emerge as the winner.
+Welcome to the NBA Winner Prediction repository! This Repo consists of Algorithms for Predicting NBA Games Using RAPTOR and other ideal parameters. An extensive range of Visualisation is done here This project combines advanced statistical modeling techniques, including the use of the RAPTOR player rating system, with a comprehensive analysis of various performance parameters to predict the outcomes of NBA games. By leveraging cutting-edge analytics and historical data, we aim to provide accurate insights into which team might emerge as the winner.
 
 ## Table of Contents
 
